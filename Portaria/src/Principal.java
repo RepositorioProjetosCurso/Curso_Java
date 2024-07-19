@@ -10,6 +10,7 @@ public class Principal {
             System.out.printf("Acesso não liberado para menores de %d", Visitante.IDADE_MINIMA_PARA_ACESSO);
         } else {
             System.out.println("Acesso liberado");
+            System.out.println("Teste do Pull");
             
         }
     }
