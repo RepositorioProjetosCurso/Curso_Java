@@ -1,11 +1,12 @@
 public class Principal {
 
     public static void main(String[] args) {
-        double precoCompraFornecedor = 140;
+        Produto produto1 = new Produto();
+        produto1.precoCusto = 100;
 
         ServicoDePrecificacao servicoDePrecificacao = new ServicoDePrecificacao();
-        double precoVenda = servicoDePrecificacao.calcularPrecoDeVenda(precoCompraFornecedor);
+        servicoDePrecificacao.definifirPrecoVenda(produto1, 20);
 
-        System.out.printf("Preço: %.2f%n", precoVenda);
+        System.out.printf("Preço: %.2f%n", produto1.precoVenda);
     }
 }
