@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/3. Arrays/ArrayComString/ArrayComString.iml" filepath="$PROJECT_DIR$/3. Arrays/ArrayComString/ArrayComString.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rascunho/Escola.iml" filepath="$PROJECT_DIR$/Rascunho/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Arrays/Media/Media.iml" filepath="$PROJECT_DIR$/3. Arrays/Media/Media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Arrays/OrdenacaoArray/OrdenacaoArray.iml" filepath="$PROJECT_DIR$/3. Arrays/OrdenacaoArray/OrdenacaoArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Repositorio.iml" filepath="$PROJECT_DIR$/Repositorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Arrays/TurmaEscola/TurmaEscola.iml" filepath="$PROJECT_DIR$/3. Arrays/TurmaEscola/TurmaEscola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
