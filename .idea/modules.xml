@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayComString/ArrayComString.iml" filepath="$PROJECT_DIR$/ArrayComString/ArrayComString.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Media/Media.iml" filepath="$PROJECT_DIR$/Media/Media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenacaoArray/OrdenacaoArray.iml" filepath="$PROJECT_DIR$/OrdenacaoArray/OrdenacaoArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Repositorio.iml" filepath="$PROJECT_DIR$/Repositorio.iml" />
