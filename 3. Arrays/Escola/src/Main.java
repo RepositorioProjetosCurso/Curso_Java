@@ -17,5 +17,10 @@ public class Main {
         aluno1.nome = "Julia Maria";
         aluno1.idade = 4;
         turmaB.alunos[1] = aluno1;
+
+        turmaB.adicionarAluno(aluno1);
+        turmaB.adicionarAluno(aluno2);
+
+        turmaB.imprimirListaDeAlunos();
     }
 }

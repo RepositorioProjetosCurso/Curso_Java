@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/3.Arrays/3.ArraysPT02.iml" filepath="$PROJECT_DIR$/3.Arrays/3.ArraysPT02.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Companhia-Aerea/Companhia-Aerea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Arrays/Multidimensional/Multidimensional.iml" filepath="$PROJECT_DIR$/3.Arrays/Multidimensional/Multidimensional.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Portaria/Portaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" filepath="$PROJECT_DIR$/1.Orientação a Objetos/Precificacao/Precificacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Repositorio.iml" filepath="$PROJECT_DIR$/Repositorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Arrays/Tridimensional/Tridimensional.iml" filepath="$PROJECT_DIR$/3.Arrays/Tridimensional/Tridimensional.iml" />
     </modules>
   </component>
 </project>

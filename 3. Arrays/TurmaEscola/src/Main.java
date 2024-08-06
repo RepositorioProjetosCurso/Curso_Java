@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Turma turmaB = new Turma();
+''        Turma turmaB = new Turma();
         turmaB.identificacaoTurma = "Maternal B";
         turmaB.nomeProfessora = "Claudia";
         turmaB.alunos = new Aluno[3];

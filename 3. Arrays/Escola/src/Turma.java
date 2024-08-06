@@ -2,5 +2,20 @@ public class Turma {
 
     String identificacaoTurma;
     String nomeProfessora;
-    Aluno[] alunos;
+    Aluno[] alunos = new Aluno[0];
+
+    void adicionarAluno(Aluno aluno) {
+        this.alunos = Arrays.copyOf(this.alunos, this.alunos.length + 1);
+        alunos[alunos.length - 1] = aluno;
+    }
+
+    void imprimirListaDeAlunos() {
+        for (Aluno aluno : alunos) {
+            if (aluno != null) {
+                System.out.printf("%s (%d anos)%n", aluno.nome, aluno.idade);
+            } else {
+                System.out.println("Vago");
+            }
+        }
+    }
 }
